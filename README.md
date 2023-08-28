@@ -10,5 +10,3 @@
 
 ###### Data Science: 
 'Python', 'Pandas', 'Numpy', 'Matplotlib', 'SciPy', 'Folium', 'Pyplot'
-
-[Telegram](https://t.me/Boris_D_A)
