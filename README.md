@@ -6,7 +6,7 @@
 - I worked on 13 projects, you can check it [here](https://github.com/Boris-DA/Yandex.Practice)
 
 ###### Databases: 
-'PostgreSQL'
+`PostgreSQL`
 
 ###### Data Science: 
-'Python', 'Pandas', 'Numpy', 'Matplotlib', 'SciPy', 'Folium', 'Pyplot'
+`Python`, `Pandas`, `Numpy`, `Matplotlib`, `SciPy`, `Folium`, `Pyplot`
